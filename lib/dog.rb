@@ -2,6 +2,6 @@ def class Dog
 
 fido = Dog.new
 snoopy = Dog.new
-Person = Dog.new
+lassie = Dog.new
 end
 
